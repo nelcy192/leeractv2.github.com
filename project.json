@@ -1,0 +1,32 @@
+{
+  "title": "comprensión inferencial",
+  "date": "30/4/24",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "comprension_inferencial.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 8,
+  "totalSize": 832376,
+  "files": [
+    "comprension_inferencial.jclic",
+    "comprension_inferencial.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "ng1-nes-twist-of-fate-comeco-de-fase.mp3",
+    "pollo.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rey_bo.png"
+  ]
+}
